@@ -1,0 +1,13 @@
+/* 
+    Created on : 2/jan/2017, 19:50:25
+    Author     : luisribeiro
+*/
+
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-floating) {
+    color: #26a69a!important;
+    font-size: 20px;
+}
+
+.avatar {
+    padding: 5px;
+}   
